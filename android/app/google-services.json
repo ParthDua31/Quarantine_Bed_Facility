@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658056311840",
+    "firebase_url": "https://quarantineapp-f0e2e.firebaseio.com",
+    "project_id": "quarantineapp-f0e2e",
+    "storage_bucket": "quarantineapp-f0e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658056311840:android:a57127c8aea12d0ca27845",
+        "android_client_info": {
+          "package_name": "parth.oops_prs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658056311840-q28t525j5sau46sgfbpceso11svcmta5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDArxFtt5ivqqNKogA8A7SUxgXBdVfH_bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658056311840-q28t525j5sau46sgfbpceso11svcmta5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
